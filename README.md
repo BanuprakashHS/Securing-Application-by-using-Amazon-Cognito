@@ -17,7 +17,8 @@ This project demonstrates how to secure a web application using AWS Cognito for 
 - NodeJS
 - HTML, CSS, JavaScript
 
-![alt text](image.png)
+![Project Architecture](Project Architecture.png)
+
 
 ## Project Working
 -	The user requests access to the administrator page from the browser.
